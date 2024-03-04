@@ -105,5 +105,5 @@ interested.
    authors
 
 Zenodo is funded by CERN, the European Commission via OpenAIRE, OpenAIREPlus,
-OpenAIRE2020, OpenAIRE-Connect and OpenAIRE-Advance as well as the Alfred P.
+OpenAIRE2020, OpenAIRE-Connect and OpenAIRE-Advance, as well as the Alfred P.
 Sloan Foundation.
